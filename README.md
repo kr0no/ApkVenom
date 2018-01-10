@@ -1,4 +1,7 @@
-# ApkVenom
+# Discontinued
+Hoy en día hay scripts mucho mejores y sin errores por ahí.
+
+## ApkVenom
 Auto-backdoor de un APK utilizando payloads de MsfVenom
 
 ### TODO
